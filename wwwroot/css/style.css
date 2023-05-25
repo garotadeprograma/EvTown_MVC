@@ -463,3 +463,142 @@ img {
         height: 0;
     }
 }
+
+.Cadastro-pessoa-container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    max-width: 800px;
+    /* border: 3px solid #5E2019; */
+    margin: auto;
+    margin-top: 50px;
+    background-color: #df4b3a18;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 400px;
+    width: 50%;
+    align-items: center;
+    background-color: #df4b3a09;
+    color: #5E2019;
+}
+
+.form h2 {
+    font-size: 2.25rem;
+    margin: 40px;
+    color: #DF4A3A;
+    font-weight: bold;
+}
+
+.form  a {
+    text-decoration: none;
+    font-weight: bold;
+    color:#5E2019;
+    margin-top: 10px;
+}
+
+.form  a:hover {
+    color: #DF4A3A;
+} 
+
+.box {
+    padding: 12px;
+    width: 65%;
+    margin: 15px;    
+    border: 2px solid #5E2019;
+    border-radius: 20px;
+    outline: none;  
+}
+
+#avancar {
+    padding: 12px 30px;    
+    max-width: 150px;
+    margin-top: 0px;
+    flex-shrink: 200px;
+    background-color:#5E2019;
+    color:white;
+    text-transform: uppercase;
+    font-size: 1.05em;
+    font-weight: bold;    
+    text-align: center;
+    padding-left: 15px 0;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+#finalzar:hover {
+    cursor: pointer;    
+    color: #DF4A3A;
+}
+/* cadastropessoasptdois.html */
+
+.cadastroptdois-container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    max-width: 800px;
+    /* border: 3px solid #5E2019; */
+    margin: auto;
+    margin-top: 50px;
+    background-color: #df4b3a18;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 400px;
+    width: 50%;
+    align-items: center;
+    background-color: #df4b3a09;
+    color: #5E2019;
+}
+
+.form h2 {
+    font-size: 2.25rem;
+    margin: 40px;
+    color: #DF4A3A;
+    font-weight: bold;
+}
+
+.form  a {
+    text-decoration: none;
+    font-weight: bold;
+    color:#5E2019;
+    margin-top: 10px;
+}
+
+.form  a:hover {
+    color: #DF4A3A;
+} 
+
+.box {
+    padding: 12px;
+    width: 65%;
+    margin: 15px;    
+    border: 2px solid #5E2019;
+    border-radius: 20px;
+    outline: none;  
+}
+
+#finalizar {
+    padding: 12px 30px;    
+    max-width: 155px;
+    margin-top: 0px;
+    flex-shrink: 200px;
+    background-color:#5E2019;
+    color:white;
+    text-transform: uppercase;
+    font-size: 1.05em;
+    font-weight: bold;    
+    text-align: center;
+    padding-left: 15px 0;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+#avancar:hover {
+    cursor: pointer;    
+    color: #DF4A3A;
+}

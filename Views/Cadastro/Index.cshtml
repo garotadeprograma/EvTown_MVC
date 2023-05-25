@@ -1,0 +1,30 @@
+@{
+    ViewData["Title"] = "Cadastro";
+}
+    <section class="cadastro-container">
+        <div class="Cadastro-pessoa-container">
+            <form action="" class="form">
+                <h2>CADASTRO</h2>
+                <input type="text" name="nome" id="nome" class="box" placeholder="Nome">
+                <!--<input type="email" name="email" id="email" class="box" placeholder="Email">-->
+                <input type="text" name="cpf" id="cpf" class="box" pattern="\d{3}\.\d{3}\.\d{3}-\d{2}"  placeholder="CPF">
+                <input type="date" name="dataNascimento" id="dataNascimento" class="box" placeholder="Data de Nascimento">
+                <!--<input type="tel" name="celular" id="celular" class="box" placeholder="Celular">-->
+                <input type="tel" id="telefone" name="telefone" class="box" placeholder="Celular" pattern="[0-9]{2}-[0-9]{5}-[0-9]{4}" >
+                
+                <a asp-action="Index" asp-controller="Cadastro">AVANÇAR</a>
+                <input type="avancar" id="avancar" value="AVANÇAR" asp-action="Cadastroptdois" asp-controller="Cadastro"/> 
+           
+
+                <!-- <a href="">Esqueci minha senha</a>
+                <a href="">Cadastre-se</a> -->
+            </form>
+
+            <div class="side">
+                <img src="img/market.png" alt="">
+            </div>
+        </div>      
+    </section>
+    <form asp-action="Cadastroptdois" asp-controller="Cadastro" method="post" class="form">
+    <input type="submit" id="avancar" value="AVANÇAR" />
+</form>

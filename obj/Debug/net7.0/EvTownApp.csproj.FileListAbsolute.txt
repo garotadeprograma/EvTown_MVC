@@ -29,3 +29,34 @@ C:\Users\acsil\OneDrive\Documentos\_PROGRAMACAO\Faculdade\trabalho braz\mvc_code
 C:\Users\acsil\OneDrive\Documentos\_PROGRAMACAO\Faculdade\trabalho braz\mvc_code\EvTownApp\obj\Debug\net7.0\EvTownApp.pdb
 C:\Users\acsil\OneDrive\Documentos\_PROGRAMACAO\Faculdade\trabalho braz\mvc_code\EvTownApp\obj\Debug\net7.0\EvTownApp.genruntimeconfig.cache
 C:\Users\acsil\OneDrive\Documentos\_PROGRAMACAO\Faculdade\trabalho braz\mvc_code\EvTownApp\obj\Debug\net7.0\ref\EvTownApp.dll
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\bin\Debug\net7.0\EvTownApp.staticwebassets.runtime.json
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\bin\Debug\net7.0\EvTownApp.exe
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\bin\Debug\net7.0\EvTownApp.deps.json
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\bin\Debug\net7.0\EvTownApp.runtimeconfig.json
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\bin\Debug\net7.0\EvTownApp.dll
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\bin\Debug\net7.0\EvTownApp.pdb
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.csproj.AssemblyReference.cache
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.AssemblyInfoInputs.cache
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.AssemblyInfo.cs
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.csproj.CoreCompileInputs.cache
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.RazorAssemblyInfo.cache
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.RazorAssemblyInfo.cs
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\staticwebassets\msbuild.EvTownApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.EvTownApp.props
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EvTownApp.props
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EvTownApp.props
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\scopedcss\bundle\EvTownApp.styles.css
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\scopedcss\projectbundle\EvTownApp.bundle.scp.css
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.dll
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\refint\EvTownApp.dll
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.pdb
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\EvTownApp.genruntimeconfig.cache
+C:\Users\Particular\Desktop\MVC_EVTOWN\EvTown_MVC\obj\Debug\net7.0\ref\EvTownApp.dll

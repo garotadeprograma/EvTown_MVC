@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acsil\\OneDrive\\Documentos\\_PROGRAMACAO\\Faculdade\\trabalho braz\\mvc_code\\EvTownApp\\EvTownApp.csproj": {}
+    "C:\\Users\\Particular\\Desktop\\MVC_EVTOWN\\EvTown_MVC\\EvTownApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acsil\\OneDrive\\Documentos\\_PROGRAMACAO\\Faculdade\\trabalho braz\\mvc_code\\EvTownApp\\EvTownApp.csproj": {
+    "C:\\Users\\Particular\\Desktop\\MVC_EVTOWN\\EvTown_MVC\\EvTownApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acsil\\OneDrive\\Documentos\\_PROGRAMACAO\\Faculdade\\trabalho braz\\mvc_code\\EvTownApp\\EvTownApp.csproj",
+        "projectUniqueName": "C:\\Users\\Particular\\Desktop\\MVC_EVTOWN\\EvTown_MVC\\EvTownApp.csproj",
         "projectName": "EvTownApp",
-        "projectPath": "C:\\Users\\acsil\\OneDrive\\Documentos\\_PROGRAMACAO\\Faculdade\\trabalho braz\\mvc_code\\EvTownApp\\EvTownApp.csproj",
-        "packagesPath": "C:\\Users\\acsil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acsil\\OneDrive\\Documentos\\_PROGRAMACAO\\Faculdade\\trabalho braz\\mvc_code\\EvTownApp\\obj\\",
+        "projectPath": "C:\\Users\\Particular\\Desktop\\MVC_EVTOWN\\EvTown_MVC\\EvTownApp.csproj",
+        "packagesPath": "C:\\Users\\Particular\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Particular\\Desktop\\MVC_EVTOWN\\EvTown_MVC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\acsil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Particular\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
